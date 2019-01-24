@@ -1,6 +1,10 @@
 #!/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+生成人人网登陆使用的uniqueTimestamp
+"""
+
 __author__ = 'rublog'
 import time
 import random
